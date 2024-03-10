@@ -21,3 +21,13 @@ Example:
 
 ## Pipeline 2: CNN model
 
+## Citations
+
+@misc{haghpanah2022realtime,
+      title={Real-Time Facial Expression Recognition using Facial Landmarks and Neural Networks}, 
+      author={Mohammad Amin Haghpanah and Ehsan Saeedizade and Mehdi Tale Masouleh and Ahmad Kalhor},
+      year={2022},
+      eprint={2202.00102},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
